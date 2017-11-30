@@ -23,7 +23,7 @@ Linux
 [ n. ]  【商,计】一种计算机操作系统
 [ 网络 ]  服务器；嵌入式；命令
 
-$ yf how are you
+$ fy how are you
 how are you
 英  美 
 [ un. ]  你好

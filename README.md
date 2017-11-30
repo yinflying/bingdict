@@ -29,6 +29,6 @@ how are you
 [ un. ]  你好
 [ 网络 ]  你好吗；怎么是你；您好吗
 
-$ yf would you tell me the difinition of linux
+$ yf would you tell me the definition of linux
 你能告诉我定义的linux吗
 ```

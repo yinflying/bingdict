@@ -29,6 +29,16 @@ how are you
 [ un. ]  你好
 [ 网络 ]  你好吗；怎么是你；您好吗
 
-$ yf would you tell me the definition of linux
+$ fy would you tell me the definition of linux
 你能告诉我定义的linux吗
+
+$ fy 学习
+学习
+[ n. ]  study, learning; pu learning
+[ v. ]  study, learn
+[ 网络 ]  e-learning; learn from; to study
+
+$ fy 好好学习，天天向上
+好好学习,天天向上
+[ 网络 ]  Good good study,day day up; Study well and make progress every day; study hard and make progress every day
 ```

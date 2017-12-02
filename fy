@@ -44,9 +44,8 @@ if(allmsg == None):
         print("没有找到相关的结果")
         exit()
     if(thismsg != None):
-        text = allmsg.find('div',class_="dym_p")
-        text = text.find_all('div',class_=True)
-        print(text[2].get_text())
+        text = allmsg.find('div',class_="p1-11")
+        print(text.get_text())
     if(thismsg1 != None):
         print("音近词:")
         all_pos = thismsg1.find_all('div',class_="df_wb_c")

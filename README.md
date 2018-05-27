@@ -12,7 +12,10 @@ Bing dict under termianl with Speak
   Copy the directory included in $PATH
 # Usage:
 ```
-fy [word or sentence]
+# single use
+$ fy [word or sentence]
+# continuous use
+$ fy -t
 ```
 
 e.g.
